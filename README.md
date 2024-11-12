@@ -41,11 +41,11 @@ A full-stack web application that mirrors the core functionalities of **Airbnb**
 - **Features**: User authentication, property listings, account creation, and robust database integration.  
 - **Role**: Full-stack developer, responsible for end-to-end development of the project.
 
-#### [Natours](https://github.com/tarunjangra043/Natours)
-A tour booking system created as a learning project.  
+#### [Cravix](https://github.com/tarunjangra043/foodDelivery)
+A MERN stack-based food delivery web application.  
 - **Tech Stack**: Node.js, Express.js, MongoDB  
-- **Features**: Admin functionalities for tour creation, updates, deletion, and credit card payment integration.  
-- **Role**: Back-end development and API integration using Postman for testing.  
+- **Features**: Curated menu, user-friendly order placement, admin functionalities for order management, and payment gateway integration.  
+- **Role**: Full-stack development with a focus on back-end, including API development, database management, and integration testing with Postman.  
 
 ---
 
