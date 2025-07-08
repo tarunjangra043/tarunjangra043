@@ -2,7 +2,7 @@
 
 ## MERN Stack Developer
 📞 **9350256027** | 📧 [tarunjangra043@gmail.com](mailto:tarunjangra043@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/tarunjangra41/) | 🏠 New Delhi, India  
+🌐 [LinkedIn](https://www.linkedin.com/in/tarunjangra41/) | 🏠 Rewari, Haryana  
 
 ---
 
